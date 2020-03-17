@@ -6,3 +6,5 @@
 ![](https://img.shields.io/github/stars/ccnmaastricht/ganglion_density_sampling)
 
 ![alt text](.figures/example.png "Examplar Resampling")
+
+Resampling images based on ganglion cell distributions in the retina.
